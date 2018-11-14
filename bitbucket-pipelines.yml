@@ -16,7 +16,7 @@ pipelines:
           - public/**
     - step:
         name: Deploy to Web
-        image: alpine
+        # image: alpine
         deployment: production
         trigger: manual
         script:
