@@ -10,6 +10,15 @@ pipelines:
         script:
           - bundle install --path vendor/bundle
           - bundle exec jekyll build --destination public
+          - mkdir dist
+          - tar -czvf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C public .
+    - step:
+        name: Deploy to Web
+        image: alpine
+        deployment: production
+        trigger: manual
+        script:
+          - tar -xf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C upload          
 definitions:
   caches:
     bundler: vendor/bundle
