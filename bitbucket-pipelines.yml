@@ -18,7 +18,12 @@ pipelines:
         deployment: production
         trigger: manual
         script:
-          - tar -xf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C upload          
+          - tar -xf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C upload 
+          - apt-get update -qq && apt-get install -y -qq lftp
+          #- rsync -a  -e "ssh -o StrictHostKeyChecking=no" --delete upload/ my-user@my-host:/var/www/html-${BITBUCKET_BUILD_NUMBER}
+          #- ssh -o StrictHostKeyChecking=no my-user@my-host "rm -r /var/www/html"
+          #- ssh -o StrictHostKeyChecking=no my-user@my-host"mv '/var/www/html-${BITBUCKET_BUILD_NUMBER}' '/var/www/html'"
+          - lftp -c "set ftp:ssl-allow no; open -p $PORT -u $USERNAME,$PASSWORD $HOST; mirror -Rev dist/ ./public_html/lala  --ignore-time --parallel=10 --exclude-glob .git* --exclude .git/"
 definitions:
   caches:
     bundler: vendor/bundle
