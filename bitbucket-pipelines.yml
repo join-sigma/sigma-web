@@ -12,6 +12,8 @@ pipelines:
           - bundle exec jekyll build --destination public
           - mkdir dist
           - tar -czvf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C public .
+        artifacts:
+          - dist/**
     - step:
         name: Deploy to Web
         image: alpine
