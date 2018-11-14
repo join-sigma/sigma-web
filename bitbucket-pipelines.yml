@@ -10,17 +10,17 @@ pipelines:
         script:
           - bundle install --path vendor/bundle
           - bundle exec jekyll build --destination public
-          - mkdir dist
-          - tar -czvf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C public .
+          # - mkdir dist
+          #- tar -czvf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C public .
         artifacts:
-          - dist/**
+          - public/**
     - step:
         name: Deploy to Web
         image: alpine
         deployment: production
         trigger: manual
         script:
-          - tar -xf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C public 
+          #- tar -xf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C public 
           - apt-get update -qq && apt-get install -y -qq lftp
           #- rsync -a  -e "ssh -o StrictHostKeyChecking=no" --delete upload/ my-user@my-host:/var/www/html-${BITBUCKET_BUILD_NUMBER}
           #- ssh -o StrictHostKeyChecking=no my-user@my-host "rm -r /var/www/html"
