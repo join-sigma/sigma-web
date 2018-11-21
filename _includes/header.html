@@ -1,11 +1,158 @@
+
+  <!-- PRE LOADER -->
+
+    <div class="preloader">
+
+      <div class='triangles'>
+
+        <div class='tri invert1'></div>
+
+        <div class='tri invert2'></div>
+
+        <div class='tri trifill'></div>
+
+        <div class='tri invert3'></div>
+
+        <div class='tri invert4'></div>
+
+        <div class='tri tri1'></div>
+
+        <div class='tri invert5'></div>
+
+        <div class='tri trifill'></div>
+
+        <div class='tri invert6'></div>
+
+      </div>
+
+    </div>
+
+    <!-- NAVBAR  -->
+
+    <div class="navbar navbar-default navbar-static-top transition" role="navigation">
+
+      <div class="containernavbar">
+
+        <div class="navbar-header">
+
+          <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+
+            <span class="icon icon-bar"></span>
+
+            <span class="icon icon-bar"></span>
+
+            <span class="icon icon-bar"></span>
+
+          </button>
+
+<!--           <a href="http://thesigmaalliance.co.uk" >the Sigma Alliance</a>
+ -->
+		  <!-- <h1> -->
+		    <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+		  <!-- </h1> -->
+
+
+
+        </div>
+
+        <div class="collapse navbar-collapse">
+
+<style>
+.nav-right ul  {
+	float: right!important;
+	margin: 7.5px -15px;
+	padding-left: 0;
+	margin-bottom: 0;
+	list-style: none;
+}
+</style>
+
+		  <nav class="nav-right">
+		    {% include navigation.html navigation=site.data.navigation %}
+		  </nav>
+
+
+<!--           <ul class="nav navbar-nav navbar-right">
+
+            <li class="active"><a href="http://thesigmaalliance.co.uk/"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+
+            <li><a href="http://thesigmaalliance.co.uk/guilds.html"><i class="fa fa-users" aria-hidden="true"></i> Our Guilds</a></li>
+
+            <li><a href="http://thesigmaalliance.co.uk/catalog.html"><i class="fa fa-book" aria-hidden="true"></i> Guides</a></li>
+
+            <li><a href="http://thesigmaalliance.co.uk/media.html"><i class="fa fa-video-camera" aria-hidden="true"></i> Media</a></li>
+
+            <li><a href="http://thesigmaalliance.co.uk/org.html"><i class="fa fa-archive" aria-hidden="true"></i> Organization</a></li>
+
+          </ul> -->
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+    <!-- MAIN LOGO -->
+
+    <section id="home" class="main-home parallax-section">
+
+      <div class="overlay"></div>
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-md-12 col-sm-12">
+
+            <img src="/assets/img/testlogo.png" class="biglogo">
+
+            <h4><a href="https://discord.gg/V33Kfaj/" target="_blank"><font color="#EC8F30">Join greatness.</font></a></h4>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    
+
+    
+
+    <section id="section05" class="demo">
+
+      <a href="#blog"><span></span>Scroll</a>
+
+    </section>
+
+
+
+    <!-- SWGOH LOGO -->
+
+    <section id="logo" class="main-logo parallax-section">
+
+      <div class="overlay"></div>
+
+      <div class="container">
+
+        <div class="col-md-offset-1 col-md-10 col-sm-12">
+
+          <img src="/assets/img/swgohlogo.png" class="swgohlogo">
+
+        </div>
+
+      </div>
+
+    </section>
+   
+
+
 <header>
 
-  <h1>
-    <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-  </h1>
 
-  <nav>
-    {% include navigation.html navigation=site.data.navigation %}
-  </nav>
+
 
 </header>

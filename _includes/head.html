@@ -1,11 +1,45 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.section == "home" %}{{ site.title }}{% else %}{{ page.title | default: site.title }}{% endif %}</title>
+  <title>
+  	{% if page.section == "home" %}
+  		{{ site.title }}
+  	{% else %}
+  		{{ page.title | default: site.title }}
+  	{% endif %}
+  </title>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {% if jekyll.environment == 'production' and site.analytics %}
     {% include analytics.html %}
   {% endif %}
 <!--   <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
  -->
+
+
+<!-- FAVICON -->
+<link rel="shortcut icon" href="images/shortcut.png" type="image/x-icon">
+<!-- METADATA -->
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-status-bar-style" content="#4285f4">
+<meta name="theme-color" content="#999999" />
+<!-- DISCORD CARD DATA -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@flickr" />
+<meta name="twitter:title" content="the Sigma Alliance" />
+<meta name="twitter:description" content="Join greatness today. Join the Sigma Alliance." />
+<meta name="twitter:image" content="/assets/img/testlogo.png" />
+<!-- FONTS -->
+<link href="https://fonts.googleapis.com/css?family=Lora:300,400" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oswald" />
+<!-- CSS -->
+<link rel="stylesheet" href="assets/old-bootstrap.min.css">
+<!-- <link rel="stylesheet" href="assets/font-awesome.min.css"> -->
+<link rel="stylesheet" href="assets/old-style.css">
+<!-- <link rel="stylesheet" href="css/iziModal.css" -->
+
 </head>
