@@ -8,10 +8,7 @@
   		{{ page.title | default: site.title }}
   	{% endif %}
   </title>
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {% if jekyll.environment == 'production' and site.analytics %}
-    {% include analytics.html %}
-  {% endif %}
+
 <!--   <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
  -->
 
@@ -38,8 +35,13 @@
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oswald" />
 <!-- CSS -->
 <link rel="stylesheet" href="assets/old-bootstrap.min.css">
-<!-- <link rel="stylesheet" href="assets/font-awesome.min.css"> -->
+<link rel="stylesheet" href="assets/font-awesome.min.css">
 <link rel="stylesheet" href="assets/old-style.css">
 <!-- <link rel="stylesheet" href="css/iziModal.css" -->
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {% if jekyll.environment == 'production' and site.analytics %}
+    {% include analytics.html %}
+  {% endif %}
 
 </head>

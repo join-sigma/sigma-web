@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Next
+title: Our next generation
 permalink: /next
-section: about
+section: Next
+header-title: Sigma Next
 intro_paragraph: |
   Here be dragons, chase them away by editing `pages/next.md` in a text editor.
 ---

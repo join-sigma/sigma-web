@@ -1,0 +1,34 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html data-current="{{ page.section }}" lang="en">
+
+
+  {% include head.html %}
+
+  <body>
+
+	<!-- PRE LOADER -->
+	{% include triangles.html %}
+
+	<!-- NAVBAR  -->
+	{% include navigation.html navigation=site.data.navigation %}
+
+	<!-- PARALAX for home -->
+	{% include scroll.html %}
+
+	<a name="start"></a>
+
+    <main>
+
+		{{ content }}
+
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

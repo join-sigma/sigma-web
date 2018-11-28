@@ -1,11 +1,48 @@
 {% assign navurl = page.url | remove: 'index.html' %}
-<ul>
-{% for item in include.navigation %}
-  <li>
-    <a href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-    {% if item.subitems %}
-      {% include navigation.html navigation=item.subitems %}
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
+
+
+<div class="navbar navbar-default navbar-static-top transition" role="navigation">
+    <div class="containernavbar">
+        <div class="navbar-header">
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon icon-bar"></span>
+                <span class="icon icon-bar"></span>
+                <span class="icon icon-bar"></span>
+            </button>
+
+
+            <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+        </div>
+        <div class="collapse navbar-collapse">
+
+            <nav>
+
+				<ul class="nav nav-bar navbar-right">
+				{% for item in include.navigation %}
+				  <li>
+				    <a href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
+				    {% if item.subitems %}
+				      {% include navigation.html navigation=item.subitems %}
+				    {% endif %}
+				  </li>
+				{% endfor %}
+				</ul>
+
+            </nav>
+<!--            <ul class="nav navbar-nav navbar-right">
+
+            <li class="active"><a href="http://thesigmaalliance.co.uk/"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+
+            <li><a href="http://thesigmaalliance.co.uk/guilds.html"><i class="fa fa-users" aria-hidden="true"></i> Our Guilds</a></li>
+
+            <li><a href="http://thesigmaalliance.co.uk/catalog.html"><i class="fa fa-book" aria-hidden="true"></i> Guides</a></li>
+
+            <li><a href="http://thesigmaalliance.co.uk/media.html"><i class="fa fa-video-camera" aria-hidden="true"></i> Media</a></li>
+
+            <li><a href="http://thesigmaalliance.co.uk/org.html"><i class="fa fa-archive" aria-hidden="true"></i> Organization</a></li>
+
+          </ul> -->
+        </div>
+    </div>
+</div>

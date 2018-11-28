@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Sigma
+title: One guild
 permalink: /sigma
-section: about
+section: sigma
+header-title: Sigma Alliance
+header-link: https://swgoh.gg/g/50755/sigma-alliance-b/
+header-link-text: Visit Sigma Alliance Beta on swgoh.gg
 intro_paragraph: |
   Here be dragons, chase them away by editing `pages/sigma.md` in a text editor.
 ---

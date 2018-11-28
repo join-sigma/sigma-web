@@ -5,11 +5,16 @@ layout: compress
 <!DOCTYPE html>
 <html data-current="{{ page.section }}" lang="en">
 
+
   {% include head.html %}
 
   <body>
 
-    {% include header.html %}
+	<!-- NAVBAR  -->
+	{% include navigation.html navigation=site.data.navigation %}
+
+	<!-- PARALAX for home -->
+	{% include header.html %}
 
     <main>
 
