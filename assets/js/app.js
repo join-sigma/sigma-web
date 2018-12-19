@@ -69,7 +69,7 @@ particlesJS('particles-js',
       },
       "move": {
         "enable": true,
-        "speed": 6,
+        "speed": 10,
         "direction": "none",
         "random": false,
         "straight": false,
@@ -96,17 +96,17 @@ particlesJS('particles-js',
       },
       "modes": {
         "grab": {
-          "distance": 400,
+          "distance": 200,
           "line_linked": {
             "opacity": 1
           }
         },
         "bubble": {
-          "distance": 400,
+          "distance": 200,
           "size": 40,
-          "duration": 2,
+          "duration": .5,
           "opacity": 8,
-          "speed": 3
+          "speed": 100
         },
         "repulse": {
           "distance": 200
