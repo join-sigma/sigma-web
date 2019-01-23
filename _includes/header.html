@@ -4,11 +4,21 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12">
-                <h1 style="font-size: 225%;">{{ page.header-title | escape }}</h1>
-                {% if page.gg-link-text %}
-                	<a href="{{ page.gg-link | escape }}" target="_blank" style="color:white; font-size: 1.25rem; text-decoration: underline !important;">{{ page.gg-link-text | escape }}</a>
-                {% endif %}
+                &nbsp;
             </div>
         </div>
     </div>
 </section>
+
+{% if page.header-title %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 col-sm-12" style="text-align: center;">
+            <h1 style="font-size: 225%; padding-top: 8rem; padding-bottom: 0;">{{ page.header-title | escape }}</h1>
+            {% if page.gg-link-text %}
+                <a href="{{ page.gg-link | escape }}" target="_blank" style="font-size: 1.25rem; text-decoration: underline !important;">{{ page.gg-link-text | escape }}</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endif %}

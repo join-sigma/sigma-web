@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Zeta
-header-title: Header title
+layout: default
+header-title: Zeta
 gg-link: http://swgoh.gg/g/47362/sigma-alliance-zeta/
 gg-link-text: Sigma Alliance Zeta on swgoh.gg
 short-description: Stay on target

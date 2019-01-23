@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Omega
-header-title: Header title
+header-title: Omega
 gg-link: https://swgoh.gg/g/15654/s-omega/
 gg-link-text: Sigma Alliance Omega on swgoh.gg
 short-description: omega value proposition

@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Alpha
-header-title: Header title
+header-title: Alpha
 gg-link: https://swgoh.gg/g/5719/sigma-alliance-a/
 gg-link-text: Sigma Alliance Alpha on swgoh.gg
 short-description: alpha value proposition
-intro_paragraph: |
-  You can edit edit `pages/guilds/alpha.md` in a text editor.
+intro_paragraph: You can edit edit `pages/guilds/alpha.md` in a text editor.
 ---
 
 ### About Us

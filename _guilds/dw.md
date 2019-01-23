@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Death Watch
-header-title: Header title
+layout: default
+header-title: Death Watch
 gg-link: https://swgoh.gg/g/13620/sigma-alliance-dw/
 gg-link-text: Sigma Alliance Death Watch on swgoh.gg
 short-description: Stay on target

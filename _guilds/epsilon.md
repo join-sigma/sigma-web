@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Epsilon
-header-title: Header title
+layout: default
+header-title: Epsilon
 gg-link: https://swgoh.gg/g/24222/sigmdllidncs-see/
 gg-link-text: Sigma Alliance Epsilon on swgoh.gg
 short-description: Stay on target

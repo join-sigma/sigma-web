@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Mandalorians
-header-title: Header title
+layout: default
+header-title: Mandalorians
 gg-link: https://swgoh.gg/g/53613/sigma-alliance-mandalorians/
 gg-link-text: Sigma Alliance Mandalorians on swgoh.gg
 short-description: Stay on target

@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+{% if page.title %}
+	<h2>{{ page.title }}</h2>
+{% endif %}
 
 {% include page-intro.html %}
 

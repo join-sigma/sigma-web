@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Emperor's Hand
-header-title: Header title
+layout: default
+header-title: Emperor's Hand
 gg-link: https://swgoh.gg/g/53608/sigma-alliance-eh/
 gg-link-text: Sigma Alliance Emperor's Hand on swgoh.gg
 short-description: Stay on target

@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Chi
-header-title: Header title
+layout: default
+header-title: Chi
 gg-link: https://swgoh.gg/g/26443/sigma-alliance-x/
 gg-link-text: Sigma Alliance Chi on swgoh.gg
 short-description: Stay on target

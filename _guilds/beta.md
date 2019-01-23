@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Beta
-header-title: Header title
+layout: default
+header-title: Beta
 gg-link: https://swgoh.gg/g/50755/sigma-alliance-b/
 gg-link-text: Sigma Alliance Beta on swgoh.gg
 short-description: Stay on target

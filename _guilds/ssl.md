@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Sith Lords
-header-title: Header title
+layout: default
+header-title: Sith Lords
 gg-link: https://swgoh.gg/g/17816/sigma-alliance-sithlords/
 gg-link-text: Sigma Alliance Sith Lords on swgoh.gg
 short-description: Stay on target

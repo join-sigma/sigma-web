@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Storm Poopers
-header-title: Header title
+layout: default
+header-title: Storm Poopers
 gg-link: https://swgoh.gg/g/16563/s-zeta/
 gg-link-text: Sigma Alliance Storm Poopers on swgoh.gg
 short-description: Stay on target

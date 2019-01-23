@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Tau
-header-title: Header title
+layout: default
+header-title: Tau
 gg-link: https://swgoh.gg/g/53609/sigma-tau/
 gg-link-text: Sigma Alliance Tau on swgoh.gg
 short-description: Stay on target

@@ -1,6 +1,6 @@
 ---
 layout: page
-header-title: Testko
+header-title: 
 header-link: https://swgoh.gg/g/50755/sigma-alliance-b/
 header-link-text: Visit Sigma Alliance Beta on swgoh.gg
 title: About
