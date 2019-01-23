@@ -12,15 +12,7 @@
 
 		src: url("../fonts/Oswald.OTF");
 
-		src: 
-
-		url("../fonts/Oswald.ttf") format("woff"),
-
-		url("../fonts/Oswald.otf") format("opentype"),
-
-		url("../fonts/Oswald.svg#filename") format("svg");
-
-		url("../fonts/Oswald.svg#filename") format("svg");
+		src: url("../fonts/Oswald.ttf") format("woff"), url("../fonts/Oswald.otf") format("opentype"), url("../fonts/Oswald.svg#filename") format("svg"), url("../fonts/Oswald.svg#filename") format("svg");
 
 	}
 
@@ -31,12 +23,12 @@
 		background: #ffffff;
 
 		font-family: 'Helvetica', serif;
-/*
+
 		font-style: normal;
 
 		font-weight: 300;
 
-		overflow-x: hidden;*/
+		overflow-x: hidden;
 
 	}
 
@@ -56,7 +48,7 @@
 
 		font-style: normal;
 
-		letter-spacing: 0.5px;
+		letter-spacing: 0;
 
 	}
 
@@ -110,7 +102,7 @@
 
 		font-weight: normal;
 
-		letter-spacing: 2px;
+		letter-spacing: 0;
 
 	}
 
@@ -234,7 +226,7 @@
 
 	.main-contact {
 
-		height: 50vh;
+		height: 20vh;
 
 	}
 
@@ -590,7 +582,7 @@
 
 		font-family: 'Oswald', serif;
 
-		letter-spacing: 2px;
+		letter-spacing: 0;
 
 		display: table-cell;
 
@@ -626,7 +618,7 @@
 
 		font-family: 'Oswald', serif;
 
-		letter-spacing: 2px;
+		letter-spacing: 0;
 
 		margin: 0;
 
@@ -796,6 +788,7 @@
 
 		padding-top: 60px;
 
+
 	}
 
 
@@ -844,15 +837,38 @@
 
 	.biglogo {
 
-		max-width: 985px;
-
+		max-width:480px;
 		width: 100%;
-
-		margin-bottom: 20px;
+		margin: 0 auto;
 
 	}
 
+a.biglogo-cta,
+a.biglogo-cta:hover,
+a.biglogo-cta:visited {
+	padding: 1rem 2rem;
+	min-width: 20rem;
+	border-radius: 4px;
+	display: inline-block;
+	margin-top: 4rem;
+	/*font-weight: 400;*/
+	/*font-family: sans-serif;*/
+	letter-spacing: 0;
+}
+a.biglogo-cta,
+a.biglogo-cta:visited {
+	border: 1px solid rgba(255, 255, 255, 0.8);
+	color: rgba(255, 255, 255, 0.8);
+	background: rgb(120, 120, 120);
+	background: rgba(0, 0, 0, .4);
+}
+a.biglogo-cta:hover{
+	background: rgba(255, 255, 255, 0.8);
+	border: 1px solid rgba(255, 255, 255, 0.8);
+	color: rgba(0, 0, 0, 1);
+}
 
+/*rgba(236, 143, 48, 1);*/
 
 	.main-home {
 
@@ -876,7 +892,7 @@
 
 		background: url('/assets/img/IMG_482130.jpg') no-repeat center center;
 
-		height: 500px;
+		height: auto;
 
 	}
 
@@ -964,7 +980,7 @@
 
 		font-weight: bold;
 
-		letter-spacing: 2px;
+		letter-spacing: 0;
 
 		padding: 13px 22px;
 
@@ -1286,7 +1302,7 @@
 
 	.blog-post-format span {
 
-		letter-spacing: 0.5px;
+		letter-spacing: 0;
 
 		padding-right: 12px;
 
@@ -1330,7 +1346,7 @@
 
 		font-weight: bold;
 
-		letter-spacing: 1px;
+		letter-spacing: 0;
 
 		margin-top: 26px;
 
@@ -1390,7 +1406,7 @@
 
 		font-size: 18px;
 
-		letter-spacing: 1px;
+		letter-spacing: 0;
 
 	}
 
@@ -1792,17 +1808,10 @@
 
 		.main-contact {
 
-				height: 50vh;
+				height: 30vh;
 
 			}
 
-
-
-		.main-footer {
-
-				height: 640px;
-
-			}
 
 			
 
@@ -1890,12 +1899,6 @@
 
 
 
-		.main-footer {
-
-				height: 640px;
-
-			}
-
 			
 
 		.containernavbar {
@@ -1981,12 +1984,6 @@
 			padding-bottom: 60px;
 
 
-
-		.main-footer {
-
-				height: 640px;
-
-			}
 
 		}
 
@@ -3230,7 +3227,7 @@
 
   font : normal 400 20px/1 'Oswald', sans-serif;
 
-  letter-spacing: .1em;
+  letter-spacing: 0;
 
   text-decoration: none;
 
@@ -3720,7 +3717,7 @@
 
   font-weight: 300;
 
-  letter-spacing: 2px;
+  letter-spacing: 0;
 
   text-transform: uppercase;
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-header-title: Sigma Alliance Beta
-header-link: https://swgoh.gg/g/50755/sigma-alliance-b/
-header-link-text: Visit Sigma Alliance Beta on swgoh.gg
-permalink: /beta
-section: guilds
+title: Sigma Academy
+header-title: Header title
+gg-link: https://swgoh.gg/g/33161/sigma-alliance-academy/
+gg-link-text: Sigma Alliance Academy on swgoh.gg
+short-description: Stay on target
 intro_paragraph: |
-  Stay on target" You can edit edit `pages/guilds/beta.md` in a text editor.
+  You can edit edit `pages/guilds/academy.md` in a text editor.
 ---
 
 ### About Us

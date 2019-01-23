@@ -29,7 +29,7 @@ permalink: /blog/:title
 section: true
 
 # set to 'true' to enable Netlify CMS (/admin) in production builds
-netlifycms: true
+netlifycms: false
 
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: false
@@ -63,6 +63,14 @@ kramdown:
 
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
+
+# collections
+collections:
+  guilds:
+    output: true
+    permalink: /guilds/:path/
+
+# collections_dir: guilds
 
 #include:
 #  - _redirects
