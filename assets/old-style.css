@@ -6,7 +6,7 @@
 
 
 
-	@font-face {
+/*	@font-face {
 
 		font-family: "Oswald";
 
@@ -15,14 +15,14 @@
 		src: url("../fonts/Oswald.ttf") format("woff"), url("../fonts/Oswald.otf") format("opentype"), url("../fonts/Oswald.svg#filename") format("svg"), url("../fonts/Oswald.svg#filename") format("svg");
 
 	}
-
+*/
 
 
 	body {
 
 		background: #ffffff;
 
-		font-family: 'Helvetica', serif;
+		font-family: 'Helvetica', sans-serif;
 
 		font-style: normal;
 
@@ -44,7 +44,7 @@
 
 	h1,h2,h3,h4,h5,h6 {
 
-		font-family: 'Oswald', serif;
+		font-family: 'Oswald', sans-serif;
 
 		font-style: normal;
 
