@@ -9,57 +9,68 @@ intro_paragraph: You can edit edit `pages/guilds/alpha.md` in a text editor.
 
 ### About Us
 
-Beta was formed in August 2018 after multiple guilds from outside of SIGMA merged and joined The Alliance. This guild requires participation in all aspects of SWGOH, with an added emphasis on Territory Battles and the Heroic Sith Triumvirate Raid. Our guild reset is at 18:30 UTC. GL: stiiillωaiting Officers: Fred1138, Hawca, lunco, luxor2k, Oathkeepr, SnailAss, Spicewood Foo
+Alpha is the oldest guild in Sigm Alliance. The guild was formed in August 2016 under TeamSkunk and now crushes ALL of the content. Alpha has a strong group of Officers and is an EU guild with a guild reset of 5:30pm GMT.
 
 ### Requirements
 
-* Minimum 2.8 Million GP
-* HSTR ready roster
-* Required LS/DS TB Characters at required star level
+* We are focusing on Territory Wars, require tickets and want you to check discord daily.
 
 ### Raid Info
 
-#### hRancor Raid:
+#### The Pit
 
-* Launch at 8pm UTC with a 24hr join period
-* Zerg opens at 8pm UTC with no damage delay
+* Raid Launch is at 7:00pm GMT
+* We use join period of 24h and the raid opens up for ZERG.
 
-#### hSTR & hAAT Raid:
 
-* Launch at 7pm UTC with a 24hr join period
-* Zerg opens at 7pm UTC with no damage delay
-* hSTR & hAAT will never run on the same day. if, based on ticket accumulation, they are scheduled to run simultaneously hAAT will get pushed back 24 hours
+#### hAAT Raid:
 
-### Guild Events
+* Raid Launch is at 7:15pm GMT
+* We use join period of 24h and the raid opens up for ZERG.
 
-#### Territory Battles
+#### Hstr Raid:
 
-* Deployment remains locked until 9am UTC for every Phase
-* Phases 4-6 begin with everything locked while TB Officers review platoon squads. Once instructions for filling squads are posted, platoons are opened and only after the assigned squads are all filled do Combat & Special Missions become unlocked
+* Raid Launch is at 8:00pm GMT
+* We use join period of 24h and the raid opens up for ZERG.
 
-#### Territory Wars
-
-* Follow Officer instructions for setting defenses and which opponent territories to attack
 
 ### Guild Rules
 
-#### Discord and Conduct
+### Raid Infractions
 
-* Members must have access to Discord & check it daily
-* Members must have a SWGOH.gg account
-* Be Respectful and Polite Towards others.
-* If you will be away from the game for an extended period of time, post in #leave_of_absence
+* For small errors (such as posting a small amount of damage in 0 phase) you will simply be asked to post a 0 on the next rancor raid.
+* For larger mistakes (such as posting large amounts of damage before the 20 minute mark) you will be given a strike.
 
-#### Discipline
+### Strike System
 
-While warnings and strikes can be handed out for a number of infractions, Beta’s Discipline policy is currently under review and will be updated when finalized.
+This also applies to strikes given for normal rule infractions as well. After 30 days of having a strike, it will be removed.
+
+* 1st Strike  = Miss Next Rancor Raid
+* 2nd Strike = Miss Next AAT Raid
+* 3rd Strike = Boot
+
+### Discord and Conduct
+
+* Check Discord Daily
+* Keep content PG as we have young players among us (except in specific non pg areas)
+* Report Bugs or Errors in the server
+* Don’t Troll
+* Be Respectful and Polite Towards others
+
 
 #### Tickets
 
-Achieving 600 Personal Raid Tickets daily is required.
+* 600 Tickets required daily
+* If you miss you get a strike
+* Post in #leave_of_absence if you’ll be away from the game and unable to complete tickets
 
 #### Mercing
 
-If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must get permission from an officer. It is very important that you achieve your 600 tickets before leaving the guild. If you will be away from the guild for more than 1 day, coordinate with an officer so that they can find an account to have cover your 600 tickets.
+If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must not miss your tickets for the day. If you will be away from the guild for more than 1 day, please seek permission from an officer so that they can coordinate a Ticket Merc to cover you.
+
+#### Other Rules
+
+* Treat your officers with respect. Sometimes a call against you may be unjust or unfair if this is the case it is likely a mistake. Notify the officer politely.
+* Don’t openly attack or accuse another player in-game or on discord. Notify an officer and have them deal with the situation.
 
 [Join Beta!](https://discord.gg/V33Kfaj)

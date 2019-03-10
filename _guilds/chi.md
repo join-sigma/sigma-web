@@ -10,57 +10,79 @@ intro_paragraph: |
 
 ### About Us
 
-Beta was formed in August 2018 after multiple guilds from outside of SIGMA merged and joined The Alliance. This guild requires participation in all aspects of SWGOH, with an added emphasis on Territory Battles and the Heroic Sith Triumvirate Raid. Our guild reset is at 18:30 UTC. GL: stiiillωaiting Officers: Fred1138, Hawca, lunco, luxor2k, Oathkeepr, SnailAss, Spicewood Foo
+Chi is a young SIGMA ALLIANCE guild, created in August 2017. We are currently a HSTR guild doing it in under 24 hours . Chi is dedicated to giving players an organized and strategic starting point in SWGOH. Our guild and raid times are established primarily to be friendly for European time zones. We are a young, but energetic guild with a strong base of members who are excited to grow together as a guild.
+Our guild refresh time is at 5:30pm GMT.
 
-### Requirements
+#### Chi Leadership:
 
-* Minimum 2.8 Million GP
-* HSTR ready roster
-* Required LS/DS TB Characters at required star level
+* Guild Leader: Craepe
+* Guild Officers: Harrison Ford, KzedΣχ, sront, Cristii, Sith Hunter, Orbinack, Auselan, Fuwic, Valin and Ubiquitous
+
+#### Requirements for Membership
+
+Chi is currently a HSTR guild . We require a minimum of 2.5M GP, and require members to create a swgoh.gg profile, use Discord for guild chat, both Light Side and Dark Side TB toons ready , Heroic Sith Raid teams ready and Commander Luke Skyawalker as well as Rey (Jedi Training) must be at gear 12.  Guild rules must be followed as outlined below.
+
 
 ### Raid Info
 
-#### hRancor Raid:
+#### Rancor Raid:
 
-* Launch at 8pm UTC with a 24hr join period
-* Zerg opens at 8pm UTC with no damage delay
+* We open raids at 3:00pm EST / 7:00pm UTC
+* The first 24 hours is the Join phase which allows all members time to join and become eligible for raid rewards.
+* When the 24 hour is finished, all members may attack and there is no waiting to post your score.
 
-#### hSTR & hAAT Raid:
+#### hAAT Raid:
 
-* Launch at 7pm UTC with a 24hr join period
-* Zerg opens at 7pm UTC with no damage delay
-* hSTR & hAAT will never run on the same day. if, based on ticket accumulation, they are scheduled to run simultaneously hAAT will get pushed back 24 hours
+* Raid Launch is at 4:00 pm EST / 8:00 UTC
+* The first 24 hours is the Join phase which allows all members time to join and become eligible for raid rewards.
+* When the 24 hour is finished, all members may attack and there is no waiting to post your score.
 
-### Guild Events
+#### Heroic Sith Raid:
 
-#### Territory Battles
-
-* Deployment remains locked until 9am UTC for every Phase
-* Phases 4-6 begin with everything locked while TB Officers review platoon squads. Once instructions for filling squads are posted, platoons are opened and only after the assigned squads are all filled do Combat & Special Missions become unlocked
-
-#### Territory Wars
-
-* Follow Officer instructions for setting defenses and which opponent territories to attack
+* Raid launch is at 2:00 pm EST / 6:00 pm UTC
+* The first 24 hours is the Join phase which allows all members time to join and become eligible for raid rewards.
+* When the 24 hour is finished, all members may attack and there is no waiting to post your score.
 
 ### Guild Rules
 
-#### Discord and Conduct
+#### Discord
 
-* Members must have access to Discord & check it daily
-* Members must have a SWGOH.gg account
-* Be Respectful and Polite Towards others.
-* If you will be away from the game for an extended period of time, post in #leave_of_absence
+* All members must have a Discord account, and check in on Discord regularly, ideally once or twice a day. Raid announcements, guild updates and other information is primarily distributed through Discord. We encourage all members to be active on Discord, as Discord offers access and interaction with other members within the SIGMΔ ALLIANCE community.
+* Please keep Discord chat content PG-rated.
+* Please do not troll or spam in the Discord chat rooms.
+* And remember to be respectful and polite towards others.
 
-#### Discipline
+#### Tickets:
 
-While warnings and strikes can be handed out for a number of infractions, Beta’s Discipline policy is currently under review and will be updated when finalized.
+* Jning Chi you agree to contribute 600 tickets per day.
+* Post in #leave_of_absence channel on Discord if you’ll be away from the game and unable to complete tickets.
 
-#### Tickets
+#### Other Rules:
 
-Achieving 600 Personal Raid Tickets daily is required.
+* Please respect our guild members. Our officers work very hard to make the guild run smoothly. Sometimes mistakes get made. Please be understanding and if you are unhappy with something, or feel you have been treated unfairly, please openly bring it to the attention of an officer or the guild leader.
+* A minimum of 2M damage is required by all members in the Sith Raid.
+* We require our members to participate in Light Side TB and Dark Side TB as following : 90 Combat Waves in LS TB and 60 CMWs in DS TB
+* Participation in Territory War is mandatory and we require each member to get at least 100 Banners every TW
 
-#### Mercing
+If you are unsure of any of the rules, please ask.
 
-If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must get permission from an officer. It is very important that you achieve your 600 tickets before leaving the guild. If you will be away from the guild for more than 1 day, coordinate with an officer so that they can find an account to have cover your 600 tickets.
 
-[Join Beta!](https://discord.gg/V33Kfaj)
+#### Disciplinary
+
+* Penalties for breaking guild rules will be at the discretion of guild leadership. Generally speaking, we’re pretty understanding here in Chi, and have a lot of newer folks, so honest mistakes and minor rule violations are typically handled with a warning.
+
+For more serious violations, we generally use a three-strike system:
+
+* 1st Strike = Do not join the next Rancor Raid
+* 2nd Strike = Do not join the HAAT Raid
+* 3rd Strike = Potential removal from guild
+
+
+### SIGMΔ ALLIΔNCE:
+
+Being a part of SIGMΔ is a great way to enhance your game. The opportunity to move into bigger guilds as your GP grows is just the beginning. There is a roster review and modding review available. Help on how to take out that Mythic level or get that Legendary toon. And everyday advice on anything from TW to Ship Arena. Come join us. You’ll be glad you did.
+
+
+
+
+[Join Sigma Alliance!](https://discord.gg/V33Kfaj)

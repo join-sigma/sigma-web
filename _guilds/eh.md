@@ -10,57 +10,109 @@ intro_paragraph: |
 
 ### About Us
 
-Beta was formed in August 2018 after multiple guilds from outside of SIGMA merged and joined The Alliance. This guild requires participation in all aspects of SWGOH, with an added emphasis on Territory Battles and the Heroic Sith Triumvirate Raid. Our guild reset is at 18:30 UTC. GL: stiiillωaiting Officers: Fred1138, Hawca, lunco, luxor2k, Oathkeepr, SnailAss, Spicewood Foo
+Emperor's Hand was the fourth guild in the SIGMA ALLIANCE.
+
+TheSmokey is Guild Leader for Emperor's Hand, and has officers in support roles:
+
+* Discipline: TheSmokey
+* Recruiting: Ethanite
+* TB/TW Master: Patton
+* Other Roles: Rhox, Shadowed Sly, Gohan0406
+* Guild GP: 140+ Million
+* Emperor's Hand has a guild reset at 11:30pm Eastern (UTC -5, accounting for Daylight Savings Time)
+* Light Side TB: 42 stars
+* Dark Side TB: 43 stars
 
 ### Requirements
 
-* Minimum 2.8 Million GP
-* HSTR ready roster
-* Required LS/DS TB Characters at required star level
+* GP: 2,600,000+
+* Characters: 7* Phoenix, 5* Captain Han Solo, 6* Hoth Rebel Scout, 5* Hoth Rebel Soldier, 5* Colonel Starck, 5* General Veers, 5* Snowtrooper (Must be able to complete Imperial Probe Droid Mission) , 7* Rogue One
+* 600 tickets per day
+*  Active on Discord
 
 ### Raid Info
 
-#### hRancor Raid:
+#### Heroic Rancor:
 
-* Launch at 8pm UTC with a 24hr join period
-* Zerg opens at 8pm UTC with no damage delay
+* Launches at 10pm Eastern (3am UTC)
+* 24 hour join period
+* 10 minute wait after opening to post damage (damage can be posted starting at 10:10pm Eastern (3:10am UTC)
 
-#### hSTR & hAAT Raid:
+#### Heroic Tank:
 
-* Launch at 7pm UTC with a 24hr join period
-* Zerg opens at 7pm UTC with no damage delay
-* hSTR & hAAT will never run on the same day. if, based on ticket accumulation, they are scheduled to run simultaneously hAAT will get pushed back 24 hours
+* Launches at 9pm Eastern (2am UTC)
+* 4 hour join period
+* Zerg as soon as it is available to be damaged
 
-### Guild Events
+#### Heroic Sith Triumverate:
 
-#### Territory Battles
-
-* Deployment remains locked until 9am UTC for every Phase
-* Phases 4-6 begin with everything locked while TB Officers review platoon squads. Once instructions for filling squads are posted, platoons are opened and only after the assigned squads are all filled do Combat & Special Missions become unlocked
-
-#### Territory Wars
-
-* Follow Officer instructions for setting defenses and which opponent territories to attack
-
-### Guild Rules
+* Launches at 8pm Eastern (1am UTC)
+* Currently running Heroic
+* Zerg as soon as it is available to be damaged
 
 #### Discord and Conduct
 
-* Members must have access to Discord & check it daily
-* Members must have a SWGOH.gg account
-* Be Respectful and Polite Towards others.
-* If you will be away from the game for an extended period of time, post in #leave_of_absence
-
-#### Discipline
-
-While warnings and strikes can be handed out for a number of infractions, Beta’s Discipline policy is currently under review and will be updated when finalized.
+* Check Discord Daily
+* Keep content PG as we have young players among us (except in specific non pg areas)
+* Report Bugs or Errors in the server
+* Don’t Troll
+* Be Respectful and Polite towards others
 
 #### Tickets
 
-Achieving 600 Personal Raid Tickets daily is required.
+* 600 Tickets required daily
+* If you miss you get a strike (see below)
+* Post in #leave_of_absence if you’ll be away from the game and unable to complete tickets
 
-#### Mercing
 
-If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must get permission from an officer. It is very important that you achieve your 600 tickets before leaving the guild. If you will be away from the guild for more than 1 day, coordinate with an officer so that they can find an account to have cover your 600 tickets.
+#### Territory Battles
 
-[Join Beta!](https://discord.gg/V33Kfaj)
+Members are sorted into SIGMA Alliance Guilds based on Territory Battle performance. You must always do your very best.
+
+
+#### Territory Wars
+
+Sign up is not mandatory, but if you do sign up, participation IS mandatory. Members are asked to assign FOUR defensive teams and ONE defensive fleet. Specific teams are asked for in the specific TW sections.
+
+
+##### Miscellaneous
+
+If you know you will be away from the game in a way that adversely affects your performance in TB, TW, tickets, or other activities in game, please post a message in the #leave-of-absence channel on the Sigma discord server.
+As part of Sigma, there is plenty of movement up.  There are also officer opportunities for those interested.
+
+
+#### Infractions
+
+
+* 1st Miss (Less than 10 tickets): Warning
+	* Rogue Action in TB - First Offense
+* Rogue Action in TB - Second Offense
+	* PM in Discord and 1 strike
+* Low participation in TB - First Offense
+	* Warning in Discord PM
+* Low participation in TB - Second Offense
+	* PM in Discord and 1 strike
+* Posting damage before the 10 minute wait in HPIT - First Offense
+	* Warning in Discord PM
+* Posting damage before the 10 minute wait in HPIT - Second Offense
+	* PM in Discord, 1 strike, can only post zero next raid
+* Posting damage before the 10 minute wait in HPIT - Third Offense
+	* PM in Discord, 1 strike, cannot join next raid at all
+* Not making 600 tickets - First Offense
+	* Warning in Discord PM
+* Not making 600 tickets - Second Offense
+	* PM in Discord and 1 strike
+* Not making 600 tickets - Third Offense
+	* PM in Discord, 1 strike and miss HAAT or HPIT (player choice)
+
+
+5 strikes total
+
+* Strikes are tracked on a floating 30 day period.
+* Raid penalties are equivalent to miss's.
+* Officers reserve the right to compound strike penalties.
+
+
+
+
+[Join Sigma Alliance!](https://discord.gg/V33Kfaj)
