@@ -11,7 +11,9 @@ intro_paragraph: |
 ### About Us
 
 GL: Phomula 51
+
 Officer: Broksby, Dayspring, Marko, Rotahn Taske, Sagenod, SpaceNinja, Sideswipe
+
 Guild Reset 10:30Pm UTC/5:30pm est
 
 ### Requirements
