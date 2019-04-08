@@ -62,4 +62,5 @@ Achieving 600 Personal Raid Tickets daily is required.
 
 If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must get permission from an officer. It is very important that you achieve your 600 tickets before leaving the guild. If you will be away from the guild for more than 1 day, coordinate with an officer so that they can find an account to have cover your 600 tickets.
 
-[Join Beta!](https://discord.gg/V33Kfaj)
+[Join Sigma!](https://discord.gg/V33Kfaj)
+
