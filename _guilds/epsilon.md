@@ -10,57 +10,97 @@ intro_paragraph: |
 
 ### About Us
 
-Beta was formed in August 2018 after multiple guilds from outside of SIGMA merged and joined The Alliance. This guild requires participation in all aspects of SWGOH, with an added emphasis on Territory Battles and the Heroic Sith Triumvirate Raid. Our guild reset is at 18:30 UTC. GL: stiiillωaiting Officers: Fred1138, Hawca, lunco, luxor2k, Oathkeepr, SnailAss, Spicewood Foo
+Epsilon is one of the smaller guilds within the SIGMA ALLIANCE, created in June 2017. We have made quick and steady progress in the time we’ve been here. Epsilon is a semi-casual guild, in that we have slightly relaxed requirements for daily ticket contribution. But don’t let the semi-casual description fool you, you will never find a more committed and hardworking group! We are an energetic guild with a strong base of members who are excited to continue to increase our power together as a guild.
 
-### Requirements
+Our guild refresh time is at 3:30pm EST. 
 
-* Minimum 2.8 Million GP
-* HSTR ready roster
-* Required LS/DS TB Characters at required star level
+In the most recent Light Side Territory Battles, we achieved 35 stars.  In the most recent Dark Side Territory Battles, we achieved 39 stars.  
 
-### Raid Info
+#### Epsilon Leadership:
 
-#### hRancor Raid:
+* Guild Leader: Hiro Himada
+* Guild Officers: Invader Zim, Skittles1113, Prime Force, BadKarma, Batis1020, Rydaron, Vesper, Cthulhu
 
-* Launch at 8pm UTC with a 24hr join period
-* Zerg opens at 8pm UTC with no damage delay
+#### Requirements for Membership
 
-#### hSTR & hAAT Raid:
+Epsilon has recently crossed the 120 million total guild GP threshold. As such, we are looking for members with a minimum of 1,800,000 total GP. We also require members to have a public swgoh.gg profile, use Discord for guild chat, and follow guild rules as outlined below.
 
-* Launch at 7pm UTC with a 24hr join period
-* Zerg opens at 7pm UTC with no damage delay
-* hSTR & hAAT will never run on the same day. if, based on ticket accumulation, they are scheduled to run simultaneously hAAT will get pushed back 24 hours
 
-### Guild Events
+### Raids / Territory Battles / Territory Wars
+
+#### hRancor Raid ("The Pit"): HEROIC
+
+
+* Launch and ZERG occur at 8:00pm EST
+* Upon launch, the first 24 hours is a join period.  This allows everyone to register and at least collect rewards if they are not able to be on when ZERG is called.
+* After the 24 hour join period, an officer will call ZERG. Once ZERG has been called, members are free to post damage.
+* Pre-loading is acceptable, but we ask pre-loaders to wait until at least 8:10pm EST to post solo damage.
+
+#### hAAT Raid ("Tank Takedown"): HEROIC
+
+* Launch and ZERG occur at 9:00pm EST
+* Upon launch, the first 24 hours is join period. This allows everyone to register and at least collect rewards if they are not able to be on when ZERG is called.
+* After the 24 hour join period, an officer will call ZERG. Once ZERG has been called, members are free to post damage.
+
+#### Sith Triumvirate Raid
+
+* We are currently running T6 Sith Triumvirate Raids.
+* Must be building, or have built at least 1 HSTR team, and be working on building more.
+* As soon as the raid is launched, it is open to attack. There is no zero-damage phase.
+* We require all members to do their best and post a minimum of 1 million damage in the raid. Failure to reach the minimum damage results in a strike. We currently have Mid-february set as our first attempt at the HSTR.
 
 #### Territory Battles
 
-* Deployment remains locked until 9am UTC for every Phase
-* Phases 4-6 begin with everything locked while TB Officers review platoon squads. Once instructions for filling squads are posted, platoons are opened and only after the assigned squads are all filled do Combat & Special Missions become unlocked
+Members should use common sense and follow general direction provided by guild leadership. We will give platoon instructions in game as to try and fill some platoons and get those bonuses, rather than spread ourselves and not finish filling some of them.
+
+#### Light Side TB
+
+* Members are required to complete 25+ combat mission waves.  Failure to reach this or be inactive for 2 phases results in a strike.
+* Members are required to have and 6* Hoth Rebel Soldier, 6* Rebel scout, 7* Phx.
+* Requirements will steadily increase as we grow.
+
+#### Dark Side TB
+
+* Members are required to complete 25+ combat mission waves. Failure to reach this or be inactive for 2 phases results in a strike.
+* Members are required to have 6* Colonel Starck and 6* General Veers.
+* Requirements will steadily increase as we grow.
+
 
 #### Territory Wars
 
-* Follow Officer instructions for setting defenses and which opponent territories to attack
+TW is one that, if you join, you are required to participate to the max.  As such, if you are unable to participate fully, we ask that you not join TW. The penalty for not joining Territory Wars for first time is a strike as part of our comprehensive strike system.
+
+Follow guidance posted on in game for setting defensive strategy.
 
 ### Guild Rules
 
-#### Discord and Conduct
 
-* Members must have access to Discord & check it daily
-* Members must have a SWGOH.gg account
-* Be Respectful and Polite Towards others.
-* If you will be away from the game for an extended period of time, post in #leave_of_absence
+#### Discord
 
-#### Discipline
+* All members must have a Discord account, and check in on Discord regularly, ideally once or twice a day. Raid announcements, guild updates, and other information is primarily distributed through Discord. We encourage all members to be active on Discord, as Discord offers access and interaction with other members within the SIGMA ALLIANCE community.
+* Please keep Discord chat content PG-rated.
+* Please do not troll or spam in the Discord chat rooms.
+* Please be respectful and polite towards others.
 
-While warnings and strikes can be handed out for a number of infractions, Beta’s Discipline policy is currently under review and will be updated when finalized.
+#### Ticket Contribution
 
-#### Tickets
+* All members should be aiming to contribute 600 tickets per day.
+* Minimum ticket contribution is 3,500 tickets per week. Failure to this results in a strike.
+* Post in #leave_of_absence channel on Discord if you’ll be away from the game and unable to complete tickets.
 
-Achieving 600 Personal Raid Tickets daily is required.
+#### Other Rules
 
-#### Mercing
+Please respect the guild leadership. Our officers work very hard to make the guild run smoothly. Sometimes mistakes get made. Please be understanding, and if you are unhappy with something, or feel you have been treated unfairly, please openly bring it to the attention of an officer or the guild leader.
 
-If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must get permission from an officer. It is very important that you achieve your 600 tickets before leaving the guild. If you will be away from the guild for more than 1 day, coordinate with an officer so that they can find an account to have cover your 600 tickets.
+#### Disciplinary
 
-[Join Beta!](https://discord.gg/V33Kfaj)
+Mistakes happen, and we're generally very understanding here in Epsilon. However, in order for our guild to progress and meet our maximum potential, we have implemented a 3 strike system. Strikes are issued for failure to meet minimum ticket requirements, failure to follow Territory Battle direction, or violation of any of the guild rules. Strikes are issued at the discretion of guild leadership.
+
+* 1st Strike: Fair warning
+* 2nd Strike: Serious warning, miss raid, either a HAAT or Pit raid
+* 3rd Strike: Demotion to a lower guild
+
+Strikes are purged after a month, so members will not be in danger of guild removal unless multiple rule violations occur within a relatively short time frame.  
+
+
+[Join Sigma Alliance!](https://discord.gg/V33Kfaj)

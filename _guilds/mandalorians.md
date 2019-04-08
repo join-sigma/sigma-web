@@ -10,57 +10,33 @@ intro_paragraph: |
 
 ### About Us
 
-Beta was formed in August 2018 after multiple guilds from outside of SIGMA merged and joined The Alliance. This guild requires participation in all aspects of SWGOH, with an added emphasis on Territory Battles and the Heroic Sith Triumvirate Raid. Our guild reset is at 18:30 UTC. GL: stiiillωaiting Officers: Fred1138, Hawca, lunco, luxor2k, Oathkeepr, SnailAss, Spicewood Foo
+GL: Phomula 51 <br>
+Officer: Broksby, Dayspring, Marko, Rotahn Taske, Sagenod, SpaceNinja, Sideswipe <br>
+Guild Reset 10:30Pm UTC/5:30pm est
 
 ### Requirements
 
-* Minimum 2.8 Million GP
-* HSTR ready roster
-* Required LS/DS TB Characters at required star level
+* 2.2 million Character GP
+* 600 tickets per day
+* All sms completed
+* Tb toons of interest
+* 7* bounty hunters g11. 7* g11 empire team. Revan unlocked 6* C3PO and Newbacca
+* 3.5m+ GP overall
 
-### Raid Info
 
-#### hRancor Raid:
+#### T7 Pit
 
-* Launch at 8pm UTC with a 24hr join period
-* Zerg opens at 8pm UTC with no damage delay
+* 8PM 24hr join period
+* Zerg when opens
 
-#### hSTR & hAAT Raid:
+#### HAAT
 
-* Launch at 7pm UTC with a 24hr join period
-* Zerg opens at 7pm UTC with no damage delay
-* hSTR & hAAT will never run on the same day. if, based on ticket accumulation, they are scheduled to run simultaneously hAAT will get pushed back 24 hours
+* 8pm 24 hr join period
+* Zerg when opens
 
-### Guild Events
+#### HSTR
 
-#### Territory Battles
+* 8PM 24hr join period
+* Zerg when opens
 
-* Deployment remains locked until 9am UTC for every Phase
-* Phases 4-6 begin with everything locked while TB Officers review platoon squads. Once instructions for filling squads are posted, platoons are opened and only after the assigned squads are all filled do Combat & Special Missions become unlocked
-
-#### Territory Wars
-
-* Follow Officer instructions for setting defenses and which opponent territories to attack
-
-### Guild Rules
-
-#### Discord and Conduct
-
-* Members must have access to Discord & check it daily
-* Members must have a SWGOH.gg account
-* Be Respectful and Polite Towards others.
-* If you will be away from the game for an extended period of time, post in #leave_of_absence
-
-#### Discipline
-
-While warnings and strikes can be handed out for a number of infractions, Beta’s Discipline policy is currently under review and will be updated when finalized.
-
-#### Tickets
-
-Achieving 600 Personal Raid Tickets daily is required.
-
-#### Mercing
-
-If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must get permission from an officer. It is very important that you achieve your 600 tickets before leaving the guild. If you will be away from the guild for more than 1 day, coordinate with an officer so that they can find an account to have cover your 600 tickets.
-
-[Join Beta!](https://discord.gg/V33Kfaj)
+[Join Sigma Alliance!](https://discord.gg/V33Kfaj)

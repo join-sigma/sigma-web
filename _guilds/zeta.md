@@ -8,59 +8,100 @@ intro_paragraph: |
   You can edit edit `pages/guilds/zeta.md` in a text editor.
 ---
 
-### About Us
+About Us
 
-Beta was formed in August 2018 after multiple guilds from outside of SIGMA merged and joined The Alliance. This guild requires participation in all aspects of SWGOH, with an added emphasis on Territory Battles and the Heroic Sith Triumvirate Raid. Our guild reset is at 18:30 UTC. GL: stiiillωaiting Officers: Fred1138, Hawca, lunco, luxor2k, Oathkeepr, SnailAss, Spicewood Foo
 
-### Requirements
 
-* Minimum 2.8 Million GP
-* HSTR ready roster
-* Required LS/DS TB Characters at required star level
 
-### Raid Info
 
-#### hRancor Raid:
+Zeta is the newest guild in the Sigma Alliance. We were formed 8/25/2017. Zeta is led by Reaver, and the dominating will of the officer corps. We are Zeta .
 
-* Launch at 8pm UTC with a 24hr join period
-* Zerg opens at 8pm UTC with no damage delay
+Sigma Zeta is a strict 600 tickets per day guild. You must generate 600 tickets a day. If you are going to miss your tickets due to personal reason, please post in #leave_of_absence. We must have prior warning to your leave otherwise it will be counted as a missed day.
 
-#### hSTR & hAAT Raid:
+Raid times are 8:00PM EST (Rancor) and 8:00 PM EST (Tank) launch.
 
-* Launch at 7pm UTC with a 24hr join period
-* Zerg opens at 7pm UTC with no damage delay
-* hSTR & hAAT will never run on the same day. if, based on ticket accumulation, they are scheduled to run simultaneously hAAT will get pushed back 24 hours
+Guild reset is 7:30PM EST.
 
-### Guild Events
+We do not limit GW nodes. You can get 36 on GW node day.
 
-#### Territory Battles
+Active TB farming is required.
 
-* Deployment remains locked until 9am UTC for every Phase
-* Phases 4-6 begin with everything locked while TB Officers review platoon squads. Once instructions for filling squads are posted, platoons are opened and only after the assigned squads are all filled do Combat & Special Missions become unlocked
 
-#### Territory Wars
 
-* Follow Officer instructions for setting defenses and which opponent territories to attack
 
-### Guild Rules
 
-#### Discord and Conduct
+Raid Info
 
-* Members must have access to Discord & check it daily
-* Members must have a SWGOH.gg account
-* Be Respectful and Polite Towards others.
-* If you will be away from the game for an extended period of time, post in #leave_of_absence
+T7 Rancor Raid:
 
-#### Discipline
 
-While warnings and strikes can be handed out for a number of infractions, Beta’s Discipline policy is currently under review and will be updated when finalized.
 
-#### Tickets
 
-Achieving 600 Personal Raid Tickets daily is required.
+An announcement will be made in #raid_announcements when raids are launched.
+24 hours of zero damage WILL BE OBSERVED. Failure to wait to post damage will have consequences. Do not use a unit that can counter attack. Attack a side pig.
+After 24 hours have passed, an officer will call the rancor ZERG in #raid_announcements. 10 minutes after this call, damage may be posted. The free for all call will be at the 24 hour mark after launch.
 
-#### Mercing
 
-If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must get permission from an officer. It is very important that you achieve your 600 tickets before leaving the guild. If you will be away from the guild for more than 1 day, coordinate with an officer so that they can find an account to have cover your 600 tickets.
 
-[Join Beta!](https://discord.gg/V33Kfaj)
+
+hAAT Raid:
+
+
+
+
+An announcement will be made in #raid_announcements when raids are launched.
+24 hours of zero damage WILL BE OBSERVED. Failure to wait to post damage will have consequences. Do not use a unit that can counter attack. 
+After 24 hours have passed, and officer will call ZERG. 10 minutes after this call, damage may be posted.  The free for all call will be at the 24 hour mark after launch.
+
+
+
+
+Zeta raid times (GMT):
+
+
+
+Sunday: Rancor sign up 17:00 Haat Zerg 21:30 
+Monday: Rancor Zerg 17:00  (Haat sign up 17:30 if we have didn’t raid on Saturday)
+Tuesday: No Raid (Haat Zerg 17:30 if we didn’t have the tickets on Saturday) 
+Wednesday: HRancor at 4:00am.  Haat sign up 21:00
+Thursday: Haat Zerg 21:00
+Friday: Rancor sign up 21:00
+Saturday: Rancor Zerg 21:00
+Haat sign up 21:30 
+
+
+
+
+
+
+
+
+Disciplinary Actions
+
+
+
+
+
+Please understand we do not wish to remove or discipline anyone, however, YOU matter to us all. By contributing your 600 energy spent (regular or cantina, NOT daily activity) you show us you care about us all and the welfare of the guild. 600 is mandatory. we are a strict 600 guild. Missing 600 results in missing a raid, your choice which
+
+
+
+1 raid offense. Verbal warning (last chance)
+
+2nd raid offense. You do not hit the next raid. Either Rancor or AAT.
+
+3rd raid offense. Removal/ re-invite. You got 0 chance left with me or these good folks you screwed.
+
+4th time missed. You show you don’t care about us, and we don’t care about you. Bye Felicia.
+
+
+
+We aren’t messing ’round in here. Zeta WILL be a top guild by us working together. We are here to help each other, not hurt each other. The above mentioned conduct hurts us. We will not allow this guild to be hurt due to anyone slacking or thinking they can break the rules. Nobody is exempt from these rules.
+
+If you are going to miss your 600 tickets, please let us know IN ADVANCE that you are so we can make arrangements.
+
+
+
+
+
+[Join Sigma Alliance!](https://discord.gg/V33Kfaj)
