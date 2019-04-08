@@ -73,5 +73,5 @@ If you wish to offer yourself as a Raid Merc to another guild, you are allowed t
 * Treat your officers with respect. Sometimes a call against you may be unjust or unfair if this is the case it is likely a mistake. Notify the officer politely.
 * Don’t openly attack or accuse another player in-game or on discord. Notify an officer and have them deal with the situation.
 
-[Join Sigma!](https://discord.gg/V33Kfaj)
+[Join Sigma Alliance!](https://discord.gg/V33Kfaj)
 
