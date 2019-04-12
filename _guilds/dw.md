@@ -71,7 +71,6 @@ Members will be notified upon receiving an infraction. Failing to follow an infr
 
 Death Watch is a part of the Sigma Guild Cluster. Sigma as a core philosophy supports the concepts of movement & change. A starting point within Sigma as Death Watch does not always end at Death Watch. If members perform beyond expectations they can move to more competitive Sections of Sigma. Likewise, repeated low performance without proper communication will lead to placement to a less stringent portion of Sigma to prevent game burn out. The advantage of the Sigma Guild Cluster is being a member of not just your immediate ingame guild but of being a member of a larger & supportive super guild.
 
-
 With that being said, Death Watch itself focuses on personal growth through Strengthening Accounts, Game Knowledge, and surpassing Personal Goals.
 
 
