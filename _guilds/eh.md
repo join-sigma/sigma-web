@@ -3,7 +3,7 @@ layout: default
 header-title: Emperor's Hand
 gg-link: https://swgoh.gg/g/53608/sigma-alliance-eh/
 gg-link-text: Sigma Alliance Emperor's Hand on swgoh.gg
-short-description: Stay on target
+short-description: US based
 intro_paragraph: |
   You can edit edit `pages/guilds/eh.md` in a text editor.
 ---

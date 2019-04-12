@@ -3,7 +3,7 @@ layout: default
 header-title: Epsilon
 gg-link: https://swgoh.gg/g/24222/sigmdllidncs-see/
 gg-link-text: Sigma Alliance Epsilon on swgoh.gg
-short-description: Stay on target
+short-description: US based
 intro_paragraph: |
   You can edit edit `pages/guilds/epsilon.md` in a text editor.
 ---

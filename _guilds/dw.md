@@ -3,7 +3,7 @@ layout: default
 header-title: Death Watch
 gg-link: https://swgoh.gg/g/13620/sigma-alliance-dw/
 gg-link-text: Sigma Alliance Death Watch on swgoh.gg
-short-description: Stay on target
+short-description: US based
 intro_paragraph: |
   You can edit edit `pages/guilds/dw.md` in a text editor.
 ---
