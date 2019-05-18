@@ -3,7 +3,7 @@ layout: default
 header-title: Mandalorians
 gg-link: https://swgoh.gg/g/53613/sigma-alliance-mandalorians/
 gg-link-text: Sigma Alliance Mandalorians on swgoh.gg
-short-description: Stay on target
+short-description: US based
 intro_paragraph: |
   You can edit edit `pages/guilds/mandalorians.md` in a text editor.
 ---

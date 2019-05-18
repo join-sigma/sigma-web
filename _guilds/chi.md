@@ -3,7 +3,7 @@ layout: default
 header-title: Chi
 gg-link: https://swgoh.gg/g/26443/sigma-alliance-x/
 gg-link-text: Sigma Alliance Chi on swgoh.gg
-short-description: Stay on target
+short-description: EU based
 intro_paragraph: |
   You can edit edit `pages/guilds/chi.md` in a text editor.
 ---

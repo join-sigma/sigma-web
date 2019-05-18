@@ -8,7 +8,7 @@ permalink: /sigma
 
 ## One Guild
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+The SIGMA ALLIANCE is a multi-guild SWGOH community that focuses on a “One Guild” mentality and a performance driven approach to our gaming development.  Despite housing a large array of guilds, we espouse a unified direction for our player base and consider SIGMA to be a single entity, not simply the sum of its parts. 
 
 ### Sigma Alliance Guilds
 
