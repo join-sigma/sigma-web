@@ -82,3 +82,4 @@ If you wish to offer yourself as a Raid Merc to another guild, you are allowed t
 
 [Join Sigma Alliance!](https://discord.gg/V33Kfaj)
 
+Hope to see you soon!
