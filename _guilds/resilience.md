@@ -1,0 +1,1 @@
+Resilience is the latest addition to the SIGMA ALLIANCE.
