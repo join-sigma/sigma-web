@@ -2,36 +2,43 @@
 layout: default
 header-title: Resilience
 gg-link: https://swgoh.gg/g/4969/resilience/
-gg-link-text: Sigma Alliance Alpha on swgoh.gg
+gg-link-text: Sigma Alliance Resilience on swgoh.gg
 short-description: EU based
 intro_paragraph: You can edit edit `pages/guilds/resilience.md` in a text editor.
 ---
 
 ### About Us
 
-Resilience is the newest guild in Sigm Alliance. The guild was formed in August 2016 under TeamSkunk and now crushes ALL of the content. Alpha has a strong group of Officers and is an EU guild with a guild reset of 5:30pm GMT.
+Joining Sigma Alliance in May 2019, Resilience is the newest addition to the cluster. We are an European guild, with a sizable French and Swedish member base. Resilience is an active community within the vast member base of Sigma Alliance. When you’re a member of Resilience, you’re also a member of the Sigma Alliance. One big guild, built in to different tiers, based on activity, roster and performance, both US and EU based.
+
 
 ### Requirements
 
-* We are focusing on Territory Wars, require tickets and want you to check discord daily.
+In order to join Resilience, you are required to
+* Have a 3 million GP
+* Have Discord
+* Have a swgoh.gg account
+* Have hSTR ready rooster.
+* Be able to complete 90 Combat waves in TB
+* Contribute 600 tickets daily
+
 
 ### Raid Info
 
 #### The Pit
 
-* Raid Launch is at 7:00pm GMT
-* We use join period of 24h and the raid opens up for ZERG.
-
+* Sim Raid Heroic Pit is launced on auto at 17:00hrs UTC.
+* We use join period of 24hrs.
 
 #### hAAT Raid:
 
-* Raid Launch is at 7:15pm GMT
-* We use join period of 24h and the raid opens up for ZERG.
+* Raid Launch is at 18:00hrs UTC.
+* We use join period of 24hrs.
 
 #### Hstr Raid:
 
-* Raid Launch is at 8:00pm GMT
-* We use join period of 24h and the raid opens up for ZERG.
+* Raid Launch is at 18:00hrs UTC.
+* We use join period of 24hrs.
 
 
 ### Guild Rules
@@ -54,7 +61,7 @@ This also applies to strikes given for normal rule infractions as well. After 30
 * Check Discord Daily
 * Keep content PG as we have young players among us (except in specific non pg areas)
 * Report Bugs or Errors in the server
-* Donâ€™t Troll
+* Don’t Troll
 * Be Respectful and Polite Towards others
 
 
@@ -62,7 +69,7 @@ This also applies to strikes given for normal rule infractions as well. After 30
 
 * 600 Tickets required daily
 * If you miss you get a strike
-* Post in #leave_of_absence if youâ€™ll be away from the game and unable to complete tickets
+* Post in #leave_of_absence if you’ll be away from the game and unable to complete tickets
 
 #### Mercing
 
@@ -71,7 +78,7 @@ If you wish to offer yourself as a Raid Merc to another guild, you are allowed t
 #### Other Rules
 
 * Treat your officers with respect. Sometimes a call against you may be unjust or unfair if this is the case it is likely a mistake. Notify the officer politely.
-* Donâ€™t openly attack or accuse another player in-game or on discord. Notify an officer and have them deal with the situation.
+* Don’t openly attack or accuse another player in-game or on discord. Notify an officer and have them deal with the situation.
 
 [Join Sigma Alliance!](https://discord.gg/V33Kfaj)
 
