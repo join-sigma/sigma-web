@@ -9,4 +9,4 @@ intro_paragraph: You can edit edit `pages/guilds/resilience.md` in a text editor
 
 ###About Us
 
-Resilience is the latest addition to the SIGMA ALLIANCE.
+Resilience is the latest addition to the SIGMA ALLIANCE. Our 160M GP guild...
