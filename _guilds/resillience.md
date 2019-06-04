@@ -9,7 +9,7 @@ intro_paragraph: You can edit edit `pages/guilds/resilience.md` in a text editor
 
 ### About Us
 
-Joining Sigma Alliance in May 2019, Resilience is the newest addition to the cluster. We are an European guild, with a sizable French and Swedish member base. Resilience is an active community within the vast member base of Sigma Alliance. When you’re a member of Resilience, you’re also a member of the Sigma Alliance. One big guild, built in to different tiers, based on activity, roster and performance, both US and EU based.
+Joining Sigma Alliance in May 2019, Resilience is the newest addition to the cluster. We are an European guild, with a sizable French and Swedish member base. Resilience is an active community within the vast member base of Sigma Alliance. When you're a member of Resilience, you're also a member of the Sigma Alliance. One big guild, built in to different tiers, based on activity, roster and performance, both US and EU based.
 
 
 ### Requirements
