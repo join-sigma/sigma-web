@@ -20,4 +20,3 @@ The SIGMA ALLIANCE is a multi-guild SWGOH community that focuses on a “One Guild
       </li>
 {% endfor %}
 </ul>
-write access confirmed :D
