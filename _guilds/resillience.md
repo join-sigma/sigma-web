@@ -41,45 +41,6 @@ In order to join Resilience, you are required to
 * We use join period of 24hrs.
 
 
-### Guild Rules
-
-### Raid Infractions
-
-* For small errors (such as posting a small amount of damage in 0 phase) you will simply be asked to post a 0 on the next rancor raid.
-* For larger mistakes (such as posting large amounts of damage before the 20 minute mark) you will be given a strike.
-
-### Strike System
-
-This also applies to strikes given for normal rule infractions as well. After 30 days of having a strike, it will be removed.
-
-* 1st Strike  = Miss Next Rancor Raid
-* 2nd Strike = Miss Next AAT Raid
-* 3rd Strike = Boot
-
-### Discord and Conduct
-
-* Check Discord Daily
-* Keep content PG as we have young players among us (except in specific non pg areas)
-* Report Bugs or Errors in the server
-* Don’t Troll
-* Be Respectful and Polite Towards others
-
-
-#### Tickets
-
-* 600 Tickets required daily
-* If you miss you get a strike
-* Post in #leave_of_absence if you’ll be away from the game and unable to complete tickets
-
-#### Mercing
-
-If you wish to offer yourself as a Raid Merc to another guild, you are allowed to do so but must not miss your tickets for the day. If you will be away from the guild for more than 1 day, please seek permission from an officer so that they can coordinate a Ticket Merc to cover you.
-
-#### Other Rules
-
-* Treat your officers with respect. Sometimes a call against you may be unjust or unfair if this is the case it is likely a mistake. Notify the officer politely.
-* Don’t openly attack or accuse another player in-game or on discord. Notify an officer and have them deal with the situation.
-
 [Join Sigma Alliance!](https://discord.gg/V33Kfaj)
 
 Hope to see you soon!
