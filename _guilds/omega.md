@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Omega
+header-title: Sigma Alliance Omega
 gg-link: https://swgoh.gg/g/15654/s-omega/
-gg-link-text: Sigma Alliance Omega on swgoh.gg
-short-description: EU based
+gg-link-text: visit swgoh.gg profile
+guild-photo: /assets/img/omega.jpg
+short-description: Sigma Alliance Omega
 intro_paragraph: |
   You can edit edit `pages/guilds/omega.md` in a text editor.
 ---

@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Zeta
+header-title: Sigma Alliance Zeta
 gg-link: http://swgoh.gg/g/47362/sigma-alliance-zeta/
-gg-link-text: Sigma Alliance Zeta on swgoh.gg
-short-description: US based
+gg-link-text: visit swgoh.gg profile
+guild-photo: /assets/img/zeta.jpg
+short-description: Sigma Alliance Zeta
 intro_paragraph: |
   You can edit edit `pages/guilds/zeta.md` in a text editor.
 ---

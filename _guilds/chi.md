@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Chi
+header-title: Sigma Alliance Chi
 gg-link: https://swgoh.gg/g/26443/sigma-alliance-x/
-gg-link-text: Sigma Alliance Chi on swgoh.gg
-short-description: EU based
+gg-link-text: visit swgoh.gg profile
+guild-photo: /assets/img/chi.jpg
+short-description: Sigma Alliance Chi
 intro_paragraph: |
   You can edit edit `pages/guilds/chi.md` in a text editor.
 ---

@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Tau
+header-title: Sigma Alliance Tau
 gg-link: https://swgoh.gg/g/53609/sigma-tau/
-gg-link-text: Sigma Alliance Tau on swgoh.gg
-short-description: US based
+gg-link-text: visit swgoh.gg profile
+guild-photo: /assets/img/tau.jpg
+short-description: Sigma Alliance Tau
 intro_paragraph: |
   You can edit edit `pages/guilds/tau.md` in a text editor.
 ---

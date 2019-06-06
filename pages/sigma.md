@@ -22,7 +22,7 @@ All Sigma Alliance guilds have two simple requirements: active Discord & swgoh.g
   display: block;
   width: 100%;
   height: 26rem;">
-			<p style="position: absolute; bottom: 0;  margin-bottom: 0; padding: 1rem; background-color: rgba(255,255,255,.2); width: 100%; color: white;">{{ guilds.short-description }}</p>
+			<p style="position: absolute; bottom: 0;  margin-bottom: 0; padding: 1rem; background-color: rgba(0,0,0,.5); width: 100%; color: white;">{{ guilds.short-description }}</p>
 		</a>
       </li>
 {% endfor %}

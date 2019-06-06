@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Sith Lords
+header-title: Sigma Alliance Sith Lords
 gg-link: https://swgoh.gg/g/17816/sigma-alliance-sithlords/
-gg-link-text: Sigma Alliance Sith Lords on swgoh.gg
-short-description: US based
+gg-link-text: visit swgoh.gg profile
+guild-photo: /assets/img/ssl.jpg
+short-description: Sigma Alliance Sith Lords
 intro_paragraph: |
   You can edit edit `pages/guilds/ssl.md` in a text editor.
 ---

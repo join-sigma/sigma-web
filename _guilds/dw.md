@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Death Watch
+header-title: Sigma Alliance Death Watch
 gg-link: https://swgoh.gg/g/13620/sigma-alliance-dw/
-gg-link-text: Sigma Alliance Death Watch on swgoh.gg
-short-description: US based
+gg-link-text: Svisit swgoh.gg profile
+guild-photo: /assets/img/dw.jpg
+short-description: Sigma Alliance Death Watch
 intro_paragraph: |
   You can edit edit `pages/guilds/dw.md` in a text editor.
 ---

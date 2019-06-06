@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Resilience
+header-title: Sigma Alliance Resilience
 gg-link: https://swgoh.gg/g/4969/resilience/
-gg-link-text: Sigma Alliance Resilience on swgoh.gg
-short-description: EU based
+gg-link-text: visit swgoh.gg profile
+guild-photo: /assets/img/resilience.jpg
+short-description: Sigma Alliance Resilience
 intro_paragraph: You can edit edit `pages/guilds/resilience.md` in a text editor.
 ---
 

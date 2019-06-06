@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Emperor's Hand
+header-title: Sigma Alliance Emperor's Hand
 gg-link: https://swgoh.gg/g/53608/sigma-alliance-eh/
-gg-link-text: Sigma Alliance Emperor's Hand on swgoh.gg
-short-description: US based
+gg-link-text: visit swgoh.gg profile
+guild-photo: /assets/img/eh.jpg
+short-description: Sigma Alliance Emperor's Hand
 intro_paragraph: |
   You can edit edit `pages/guilds/eh.md` in a text editor.
 ---
