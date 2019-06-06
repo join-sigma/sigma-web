@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Beta
+header-title: Sigma Alliance Beta
 gg-link: https://swgoh.gg/g/50755/sigma-alliance-b/
-gg-link-text: Sigma Alliance Beta on swgoh.gg
-short-description: EU based
+gg-link-text: visit swgoh.gg profile
+guild-photo: /assets/img/beta.jpg
+short-description: Sigma Alliance Beta, feeding TM since 2018!!
 intro_paragraph: |
   You can edit edit `pages/guilds/beta.md` in a text editor.
 ---

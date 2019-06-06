@@ -1,9 +1,10 @@
 ---
 layout: default
-header-title: Alpha
+header-title: Sigma Alliance Alpha
 gg-link: https://swgoh.gg/g/5719/sigma-alliance-a/
-gg-link-text: Sigma Alliance Alpha on swgoh.gg
-short-description: EU based
+gg-link-text:  visit swgoh.gg profile
+guild-photo: /assets/img/alpha.jpg
+short-description: SIGM∆ Alpha is 220m+ GP. 45* LSTB/48* DSTB. TW focused.
 intro_paragraph: You can edit edit `pages/guilds/alpha.md` in a text editor.
 ---
 

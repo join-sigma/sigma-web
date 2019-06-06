@@ -12,11 +12,18 @@ The SIGMA ALLIANCE is a multi-guild SWGOH community that focuses on a "One Guild
 
 ### Sigma Alliance Guilds
 
+All Sigma Alliance guilds have two simple requirements: active Discord & swgoh.gg profile.
+
 <ul>
 {% for guilds in site.guilds  %}
-      <li>
-        <a href="{{ guilds.url }}">{{ guilds.title }}</a> - {{ guilds.short-description }}
-        <!-- <p>{{ guilds.intro_paragraph }}</p> -->
+      <li style="list-style: none; position: relative; margin-top: 0; padding-top: 0; margin-bottom: 3rem;">
+        <a href=" {{ guilds.url }} " style="background: url({{ guilds.guild-photo}}) no-repeat bottom center; 
+  background-size: cover;
+  display: block;
+  width: 100%;
+  height: 26rem;">
+			<p style="position: absolute; bottom: 0;  margin-bottom: 0; padding: 1rem; background-color: rgba(255,255,255,.2); width: 100%; color: white;">{{ guilds.short-description }}</p>
+		</a>
       </li>
 {% endfor %}
 </ul>
